@@ -165,6 +165,3 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contact
-
-For support or business inquiries, please contact the Shera Housing Company IT team.
