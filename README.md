@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Document GPT - Shera** is a secure, private document parsing and retrieval platform designed for organizations like Shera Housing Company and others. It enables C-suite executives and business users to extract, analyze, and query information from internal documents (Excel, PDFs, receipts, etc.) using advanced Large Language Models (LLMs) and embeddings—all without exposing sensitive data to external services.
+**DocMind AI -** is a secure, private document parsing and retrieval platform designed for organizations like Shera Housing Company and others. It enables C-suite executives and business users to extract, analyze, and query information from internal documents (Excel, PDFs, receipts, etc.) using advanced Large Language Models (LLMs) and embeddings—all without exposing sensitive data to external services.
 
 <div align="center">
   <br>
