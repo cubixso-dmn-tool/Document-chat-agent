@@ -2,7 +2,6 @@
 <h3 align="center">You're private GPT made for you're documents and pdfs</h1>
 
 <p align="center">
-<img src="https://github.com/cubixso-dmn-tool/Document-chat-agent/blob/main/Screenshot%202025-06-28%20224620.png" width="700"/>
 </p>
 
 ## Overview
